@@ -139,6 +139,9 @@ footer p {
 
 }
 
+.container-row .img-fluid{
+	text-align: center;
+}
 .contact-section img{
 	height: 50px;
 	width: 500px;
