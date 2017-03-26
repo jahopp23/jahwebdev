@@ -28,6 +28,11 @@ ul li a:hover {
 	color: black;
 }
 
+.row{
+	background-color: #00FFA2;
+
+}
+
 .link-row{
 	text-align: center;
 }
@@ -62,12 +67,13 @@ footer {
 	padding-top: 6.00em;
 	font-family: helvetica;
 	text-align: center;
+
 }
 
 
 
 footer p {
-	color: white;
+	color: black;
 }
 
 .about-section{
